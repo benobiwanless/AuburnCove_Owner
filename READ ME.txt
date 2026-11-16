@@ -1,0 +1,10 @@
+AUBURN COVE PRIVATE HOMEOWNER LOOKUP
+
+1. Extract the entire ZIP to a private folder on your Windows laptop.
+2. Double-click "Open Auburn Cove Lookup.vbs".
+3. The lookup opens in its own Microsoft Edge app-style window without browser tabs or an address bar. No installation or internet required.
+4. For a desktop shortcut, right-click "Open Auburn Cove Lookup.vbs" > Show more options > Send to > Desktop (create shortcut).
+
+Keep both files in the same folder. The HTML contains the complete private homeowner directory, even though the app hides it until you search. Protect the folder, do not upload it to GitHub, and do not share it publicly.
+
+If Windows blocks the VBS launcher, you can still double-click Homeowner Lookup.html; that opens in your regular browser.
